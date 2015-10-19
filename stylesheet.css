@@ -1,0 +1,25 @@
+#console{
+	font-family: monospace;
+	position: relative;
+	padding: 2%;
+}
+	h1{
+		margin: 5%;
+		position: relative;
+	}
+	form{
+		margin-left: 5%;
+		position: relative;	
+	}
+.keybucket{
+	margin: 5%;
+}
+.card{
+	position: relative;
+	padding: .5%;
+	margin: 1%;
+	min-height: 5%;
+	max-height: 15%;
+	overflow: scroll;
+	background-color: rgba(17,255,201,.6);
+}
