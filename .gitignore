@@ -1,0 +1,13 @@
+#super secret API key
+api_key.txt
+
+#General Alchemy files 
+
+
+#log files
+*.log
+
+#folders
+text source
+testing
+node_modules
